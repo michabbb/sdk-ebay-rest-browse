@@ -15,7 +15,7 @@ $ItemSummaryApi = new ItemSummaryApi(
 	$Configuration
 );
 try {
-	$res = $ItemSummaryApi->search(null,33653,null,null,null,'sellers:{ahk-autoteile}',null,1,0);
+	$res = $ItemSummaryApi->search(null,33653,null,null,null,'sellers:{someseller123}',null,1,0);
 } catch (ApiExceptionAlias $e) {
 	throw new \RuntimeException($e->getMessage());
 }

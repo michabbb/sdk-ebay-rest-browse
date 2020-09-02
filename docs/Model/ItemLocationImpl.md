@@ -1,6 +1,7 @@
-# ItemLocationImpl
+# # ItemLocationImpl
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **addressLine1** | **string** | The first line of the street address. | [optional] 
@@ -11,6 +12,6 @@ Name | Type | Description | Notes
 **postalCode** | **string** | The postal code (or zip code in US) where the item is located. | [optional] 
 **stateOrProvince** | **string** | The state or province in which the item is located. | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

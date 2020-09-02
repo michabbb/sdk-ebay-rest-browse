@@ -1,6 +1,7 @@
-# ShippingOption
+# # ShippingOption
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **additionalShippingCostPerUnit** | [**\macropage\SDKs\ebay\rest\browse\Model\ConvertedAmount**](ConvertedAmount.md) |  | [optional] 
@@ -16,6 +17,6 @@ Name | Type | Description | Notes
 **trademarkSymbol** | **string** | Any trademark symbol, such as &amp;trade; or &amp;reg;, that needs to be shown in superscript next to the shipping service name. | [optional] 
 **type** | **string** | The type of a shipping option, such as EXPEDITED, ONE_DAY, STANDARD, ECONOMY, PICKUP, etc. | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

@@ -1,6 +1,7 @@
-# SellerDetail
+# # SellerDetail
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **feedbackPercentage** | **string** | The percentage of the total positive feedback. | [optional] 
@@ -9,6 +10,6 @@ Name | Type | Description | Notes
 **sellerLegalInfo** | [**\macropage\SDKs\ebay\rest\browse\Model\SellerLegalInfo**](SellerLegalInfo.md) |  | [optional] 
 **username** | **string** | The user name created by the seller for use on eBay. | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

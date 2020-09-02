@@ -1,6 +1,7 @@
-# SearchPagedCollection
+# # SearchPagedCollection
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **href** | **string** | The URI of the current page of results. The following example of the search method returns items 1 thru 5 from the list of items found. https://api.ebay.com/buy/v1/item_summary/search?q&#x3D;shirt&amp;amp;limit&#x3D;5&amp;amp;offset&#x3D;0. | [optional] 
@@ -13,6 +14,6 @@ Name | Type | Description | Notes
 **total** | **int** | The total number of items that match the input criteria. | [optional] 
 **warnings** | [**\macropage\SDKs\ebay\rest\browse\Model\ErrorDetailV3[]**](ErrorDetailV3.md) | The container with all the warnings for the request. | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

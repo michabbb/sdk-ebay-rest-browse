@@ -1,6 +1,7 @@
-# ErrorDetailV3
+# # ErrorDetailV3
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **category** | **string** | This string value indicates the error category. There are three categories of errors: request errors, application errors, and system errors. | [optional] 
@@ -13,6 +14,6 @@ Name | Type | Description | Notes
 **parameters** | [**\macropage\SDKs\ebay\rest\browse\Model\ErrorParameterV3[]**](ErrorParameterV3.md) | An array of warning and error messages that return one or more variables contextual information about the error or warning. This is often the field or value that triggered the error or warning. | [optional] 
 **subdomain** | **string** | The name of the subdomain in which the error or warning occurred. | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

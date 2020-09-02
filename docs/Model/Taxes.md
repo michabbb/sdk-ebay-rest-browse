@@ -1,6 +1,7 @@
-# Taxes
+# # Taxes
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **ebayCollectAndRemitTax** | **bool** | This field is only returned if true, and indicates that eBay will collect tax (sales tax, Goods and Services tax, or VAT) for at least one line item in the order, and remit the tax to the taxing authority of the buyer&#39;s residence. | [optional] 
@@ -10,6 +11,6 @@ Name | Type | Description | Notes
 **taxPercentage** | **string** | The percentage of tax. | [optional] 
 **taxType** | [**\macropage\SDKs\ebay\rest\browse\Model\TaxType**](TaxType.md) |  | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

@@ -1,6 +1,7 @@
-# FilterField
+# # FilterField
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **field** | **string** | Provides a way to specify the field for the filter. | [optional] 
@@ -9,6 +10,6 @@ Name | Type | Description | Notes
 **set** | **string[]** | Provides a way to specify a &amp;quot;list of values&amp;quot; for the filter. | [optional] 
 **value** | **string** | Provides a way to specify the value of the field. | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

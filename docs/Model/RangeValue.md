@@ -1,6 +1,7 @@
-# RangeValue
+# # RangeValue
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **end** | **string** | Specifies the end or upper limit of the range. This can be empty which equates to greater than or equal to the start or lower limit. | [optional] 
@@ -9,6 +10,6 @@ Name | Type | Description | Notes
 **range** | **bool** | Specifies whether the filter is for a range of values. | [optional] 
 **start** | **string** | Specifies the start or lower limit of the range. This can be empty which equates to lesser than or equal to the end or upper limit. | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

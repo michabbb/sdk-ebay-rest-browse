@@ -1,6 +1,7 @@
-# SellerLegalInfo
+# # SellerLegalInfo
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **email** | **string** | The seller&#39;s business email address. | [optional] 
@@ -15,6 +16,6 @@ Name | Type | Description | Notes
 **termsOfService** | **string** | This is a free-form string created by the seller. This is the seller&#39;s terms or condition, which is in addition to the seller&#39;s return policies. | [optional] 
 **vatDetails** | [**\macropage\SDKs\ebay\rest\browse\Model\VatDetail[]**](VatDetail.md) | An array of the seller&#39;s VAT (value added tax) IDs and the issuing country. VAT is a tax added by some European countries. | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

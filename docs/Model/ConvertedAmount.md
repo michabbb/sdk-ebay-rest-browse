@@ -1,6 +1,7 @@
-# ConvertedAmount
+# # ConvertedAmount
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **convertedFromCurrency** | [**\macropage\SDKs\ebay\rest\browse\Model\CurrencyCodeEnum**](CurrencyCodeEnum.md) |  | [optional] 
@@ -8,6 +9,6 @@ Name | Type | Description | Notes
 **currency** | [**\macropage\SDKs\ebay\rest\browse\Model\CurrencyCodeEnum**](CurrencyCodeEnum.md) |  | [optional] 
 **value** | **string** | The monetary amount, in the currency specified by the currency field. If currency conversion/localization is required, this value is the converted amount, and the convertedFromValue field contains the amount in the original currency. | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

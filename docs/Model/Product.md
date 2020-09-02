@@ -1,6 +1,7 @@
-# Product
+# # Product
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **additionalImages** | [**\macropage\SDKs\ebay\rest\browse\Model\Image[]**](Image.md) | An array of containers with the URLs for the product images that are in addition to the primary image. | [optional] 
@@ -13,6 +14,6 @@ Name | Type | Description | Notes
 **mpns** | **string[]** | An array of all possible MPN values associated with the product. A MPNs is manufacturer part number of the product. To identify the product, this is always used along with brand. | [optional] 
 **title** | **string** | The title of the product. | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

@@ -1,6 +1,7 @@
-# CartItem
+# # CartItem
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **cartItemId** | **string** | The identifier for the item being added to the cart. This is generated when the item is added to the cart. | [optional] 
@@ -12,6 +13,6 @@ Name | Type | Description | Notes
 **quantity** | **int** | The number of this item the buyer wants to purchase. | [optional] 
 **title** | **string** | The title of the item. This can be written by the seller or come from the eBay product catalog. | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

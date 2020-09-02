@@ -1,6 +1,7 @@
-# LegalAddress
+# # LegalAddress
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **addressLine1** | **string** | The first line of the street address. | [optional] 
@@ -12,6 +13,6 @@ Name | Type | Description | Notes
 **postalCode** | **string** | The postal code of the address. | [optional] 
 **stateOrProvince** | **string** | The state or province of the address. | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

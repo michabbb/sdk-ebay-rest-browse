@@ -1,6 +1,7 @@
-# ItemReturnTerms
+# # ItemReturnTerms
 
 ## Properties
+
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **extendedHolidayReturnsOffered** | **bool** | Indicates if the seller has enabled the Extended Holiday Returns feature on the item. Extended Holiday Returns are only applicable during the US holiday season, and gives buyers extra time to return an item. This &#39;extra time&#39; will typically extend beyond what is set through the returnPeriod value. | [optional] 
@@ -12,6 +13,6 @@ Name | Type | Description | Notes
 **returnsAccepted** | **bool** | Indicates whether the seller accepts returns for the item. | [optional] 
 **returnShippingCostPayer** | [**\macropage\SDKs\ebay\rest\browse\Model\ReturnShippingCostPayerEnum**](ReturnShippingCostPayerEnum.md) |  | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
 

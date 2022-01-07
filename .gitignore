@@ -12,5 +12,4 @@ composer.phar
 
 # PHPUnit cache
 .phpunit.result.cache
-vendor
 .idea
